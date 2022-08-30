@@ -1,8 +1,7 @@
 # DM121 - Introdução ao desenvolvimento HTML, CSS e JavaScript
 
-Com a consolidação da web como plataforma...
+O objetivo desta disciplina é introduzir o aluno ao desenvolvimento web e assim habilitá-lo a atender este mercado em exponencial expansão.
 
-O objetivo da disciplina é dar ao aluno noções para o desenvolvimento de aplicações web...
 
 ## Caixa de ferramentas
 
@@ -28,4 +27,8 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 - [web.dev](https://web.dev/)
 - [Storage for the Web](https://web.dev/storage-for-the-web/)
+
+## Videos
+
+- [Como Escrever HTML 50% Mais Rápido](https://www.youtube.com/watch?v=8jLfTDn3_TM)
 
