@@ -14,10 +14,12 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Node.js](https://nodejs.org/en/)
 - [Git](http://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html3)
 
 ## Slides
 
+- Web Development Introduction
 - Hands-on HTML
 - Hands-on CSS
 - Hands-on JavaScript
