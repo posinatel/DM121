@@ -26,7 +26,7 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 ## References
 
 - [web.dev](https://web.dev/)
-- [Storage for the Web](https://web.dev/storage-for-the-web/)
+- [MDN - Mozilla Developer Network](https://developer.mozilla.org/)
 
 ## Videos
 
