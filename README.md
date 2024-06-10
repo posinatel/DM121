@@ -32,5 +32,5 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 ## Videos
 
-- [Como Escrever HTML 50% Mais Rápido](https://www.youtube.com/watch?v=8jLfTDn3_TM)
+- [Como escrever HTML 50% mais rápido](https://www.youtube.com/watch?v=8jLfTDn3_TM)
 
