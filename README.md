@@ -11,13 +11,14 @@ Para um melhor aproveitamento do conteúdo da disciplina o GitHub será utilizad
 
 Para os exemplos a serem desenvolvidos serão necessárias as instalações das seguintes ferramentas:
 
+- [Bun](https://bun.sh/)
 - [Node.js](https://nodejs.org/en/)
 - [Git](http://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html3)
 
-## Slides
+## Agenda
 
 - Web Development Introduction
 - Hands-on HTML
