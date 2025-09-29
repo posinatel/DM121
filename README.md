@@ -1,6 +1,6 @@
 # DM121 - Introdução ao desenvolvimento HTML, CSS e JavaScript
 
-O objetivo desta disciplina é introduzir o aluno ao desenvolvimento web e assim habilitá-lo a atender este mercado em exponencial expansão.
+O objetivo desta disciplina é introduzir o aluno ao desenvolvimento web e assim habilitá-lo a atender este mercado em constante evolução.
 
 
 ## Caixa de ferramentas
