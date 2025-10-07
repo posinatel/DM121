@@ -17,6 +17,8 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html3)
+- [Mozilla Firefox](https://www.firefox.com/)
+  - [Zen Browser](https://zen-browser.app/)
 
 ## Agenda
 
