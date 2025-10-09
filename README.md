@@ -32,3 +32,4 @@ Para os exemplos a serem desenvolvidos serão necessárias as instalações das 
 
 - [MDN - Mozilla Developer Network](https://developer.mozilla.org/)
 - [web.dev](https://web.dev/)
+- [Como escrever HTML 50% mais rápido](https://www.youtube.com/watch?v=8jLfTDn3_TM)
